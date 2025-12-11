@@ -1,7 +1,12 @@
 <img src="https://raw.githubusercontent.com/ton-org/blueprint/main/logo.svg" width=400 >
 
 # Blueprint
+## Quick Start
 
+```bash
+npx blueprint init my-project
+cd my-project
+npm run dev
 A development environment for TON blockchain for writing, testing, and deploying smart contracts.
 
 ## Table of Contents
